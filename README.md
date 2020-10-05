@@ -1,4 +1,4 @@
-# handmedown
+# HandMeDown
 # PRIVACY NOTICE
 
 Last updated October 05, 2020
